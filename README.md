@@ -10,9 +10,9 @@
 
 ```bash
 git clone https://github.com/Sherlock0808/Ipak_yoli_bot.git
-cd Ipak_yoli_bot
+cd Ipak_yoli_bot```
 
-```markdown
+markdown
 ### 2. Установить зависимости
 
 Убедитесь, что у вас установлен **Python 3.7+**, затем создайте виртуальное окружение и активируйте его:
